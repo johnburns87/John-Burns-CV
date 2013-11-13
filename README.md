@@ -1,5 +1,11 @@
 ## WORK EXPERIENCE
 
+### Pierce Communications
+#### PHP Web Developer
+__July 2013 - Current__
+
+I accepted the position of PHP Web Developer in July 2013 to work with Pierce Communications and join their ever expanding team and projects.
+
 ### Quantus NI Limited
 #### Senior Software Developer
 __October 2012 - June 2013__
