@@ -2,41 +2,45 @@ John-Burns-CV
 =============
 
 ## WORK EXPERIENCE
+
 ### Quantus NI Limited
 #### Senior Software Developer
-##### October 2012 - Current
+__October 2012 - June 2013__
 
 I joined a new start up company as a Senior Software Developer in Belfast, Northern Ireland.
-Duties:
-Lead  web developer for leading entertainment and resort operator in Las Vegas, USA.
-Leading developer and designer for openmama.org rebrand
-A knowledge of MySQL, PHP, XHTML, CSS, Ajax, Javascript ,JQuery, CSS3.
-Knowledge of various CMS platforms, such as Codeigniter, WordPress and Drupal.
-Tailor and maintain CMS for each customer.
-Work closely with JAVA and C++ developers to deliver products.
-Build responsive websites across several platforms.
-Ability to work to tight deadlines.
-Working with directly with several clients in North America.
-Attend overseas meetings with clients.
-Creating technical specifications and testing plans.
-Support users by developing documentation and assistance tools.
-Ability to use Photoshop and cut up and make amends to design templates.
 
-Web projects include
-www.arialasvegas.com – MGM Aria Las Vegas rebrand
-www.openmama.org – Linux Foundation rebrand
+__Duties:__
+* Lead  web developer for leading entertainment and resort operator in Las Vegas, USA.
+* Leading developer and designer for openmama.org rebrand
+* A knowledge of MySQL, PHP, XHTML, CSS, Ajax, Javascript ,JQuery, CSS3.
+* Knowledge of various CMS platforms, such as Codeigniter, WordPress and Drupal.
+* Tailor and maintain CMS for each customer.
+* Work closely with JAVA and C++ developers to deliver products.
+* Build responsive websites across several platforms.
+* Ability to work to tight deadlines.
+* Working with directly with several clients in North America.
+* Attend overseas meetings with clients.
+* Creating technical specifications and testing plans.
+* Support users by developing documentation and assistance tools.
+* Ability to use Photoshop and cut up and make amends to design templates.
 
-Blue Cube Interactive 
-Web/Facebook Developer
-December 2011 - October 2012
+__Web projects include__
+* www.arialasvegas.com – MGM Aria Las Vegas rebrand
+* www.openmama.org – Linux Foundation rebrand
+
+### Blue Cube Interactive 
+## Web/Facebook Developer
+__December 2011 - October 2012__
+
 I work with designers, Front End and project management staff to capture requirements for the functional elements of website projects. I am responsible for all work carried out to compile with standards and guidelines.
-Duties:
-Building PHP websites using PHP based frameworks.
-Planning and conducting cross-browser usability testing against W3C.
-Testing and validating work produced as part of the development process.
-Developing advanced database driven websites & systems. 
-Back end development and maintenance of websites using PHP and MySQL.
-Developing compatible User Interface functionality using jQuery & other libraries.
+
+__Duties:__
+* Building PHP websites using PHP based frameworks.
+* Planning and conducting cross-browser usability testing against W3C.
+* Testing and validating work produced as part of the development process.
+* Developing advanced database driven websites & systems. 
+* Back end development and maintenance of websites using PHP and MySQL.
+* Developing compatible User Interface functionality using jQuery & other libraries.
 
 
 Junior Developer
