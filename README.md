@@ -134,8 +134,4 @@ Tony Cronin – Managing Director – Cronin Designs
 info@cronindesigns.ie
 @cronindesigns
 
-Tony Cronin – Managing Director – Cronin Designs
-+353 1 415 1230
-info@cronindesigns.ie
-
-__“His design skills are of a very high standard and unusually his programming skills are of an even higher standard”.__
+__“His design skills are of a very high standard and unusually his programming skills are of an even higher standard”.__ - Tony Cronin
