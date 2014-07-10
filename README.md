@@ -106,7 +106,7 @@ I worked on a multitude of web and corporate identity projects for a wide variet
 
 __Web projects include__
 
-* www.phucketholidayrentals.com – Holiday Resort.
+* www.thedailygambit.com – Comic Book Blog. Designed and developed by me.
 * www.yctgroup.co.uk – Christmas Tree Retail Company.
 * www.billcameron.ie – Graphic Designer.
 * www.castlewellantownfc.com – Soccer Website.
