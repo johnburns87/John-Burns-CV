@@ -25,6 +25,12 @@ I accepted the position of PHP Web Developer in July 2013 to work with Pierce Co
 * Provide regular structured feedback to enable constant improvement of product, process, and service levels. 
 * Maintain best practices in communication with colleagues at all times.
 
+__Web projects include__
+* www.thetomorrowlab.com
+* www.eliebeauty.com
+* www.clinivet.com
+* www.equalityinsport.org
+
 ### Quantus NI Limited
 #### Web/Software Developer
 __October 2012 - June 2013__
