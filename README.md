@@ -1,13 +1,32 @@
 ## WORK EXPERIENCE
 
-### Pierce Communications
+### The Tomorrow Lab / Pierce Communications
 #### PHP Web Developer
 __July 2013 - Current__
 
 I accepted the position of PHP Web Developer in July 2013 to work with Pierce Communications and join their ever expanding team and projects.
 
+* Design, code, and test technical solutions. 
+* Give input in technical and functional design requirements. 
+* Facilitates the designer’s creative process (sitemaps, wireframes, design concepts). 
+* Help manage and troubleshoot clients’ webhosting environments. 
+* Provide frontline support for client websites according to the relevant SLAs. 
+* Troubleshoot identified issues and implement the required fixes. 
+* Test websites for functionality and compatibility in most common web browsers. 
+* Upgrade websites to newest stable builds of the relevant CMS. 
+* Develop and implement best practices for ongoing client support, testing, and upgrades. 
+* Work alone or as part of a team of developers. 
+* Assist in enforcement of development deadlines and schedules. 
+* Understand the necessity of and contributes to coding standards. 
+* Develop internal and external meeting objectives and agendas. 
+* Prioritize multiple tasks effectively. 
+* Update the status of each client project using the company’s management information systems. 
+* Develop according to the company’s processes and methodologies, including Git version control. 
+* Provide regular structured feedback to enable constant improvement of product, process, and service levels. 
+* Maintain best practices in communication with colleagues at all times.
+
 ### Quantus NI Limited
-#### Senior Software Developer
+#### Web/Software Developer
 __October 2012 - June 2013__
 
 I joined a new start up company as a Senior Software Developer in Belfast, Northern Ireland.
@@ -32,7 +51,7 @@ __Web projects include__
 * www.openmama.org – Linux Foundation rebrand
 
 ### Blue Cube Interactive 
-#### Web/Facebook Developer
+#### Web Developer
 __December 2011 - October 2012__
 
 I work with designers, Front End and project management staff to capture requirements for the functional elements of website projects. I am responsible for all work carried out to compile with standards and guidelines.
@@ -103,6 +122,17 @@ __BSC (Hons) Interactive Multimedia Design – 2006-2010__
 * Adobe Creative Suite.
 
 ### REFERENCES
+
+Barry Adams – Polemic Digital
+barry@polemicdigital.com
+@badams
+
+Anthony McNamme
+@a_mcnamee
+
+Tony Cronin – Managing Director – Cronin Designs
+info@cronindesigns.ie
+@cronindesigns
 
 Tony Cronin – Managing Director – Cronin Designs
 +353 1 415 1230
