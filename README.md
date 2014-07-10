@@ -6,6 +6,7 @@ __July 2013 - Current__
 
 I accepted the position of PHP Web Developer in July 2013 to work with Pierce Communications and join their ever expanding team and projects.
 
+__Duties:__
 * Design, code, and test technical solutions. 
 * Give input in technical and functional design requirements. 
 * Facilitates the designer’s creative process (sitemaps, wireframes, design concepts). 
